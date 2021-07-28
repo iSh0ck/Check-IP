@@ -12,3 +12,12 @@ This work only with mask of 8, 16, 24 and 32. You can easily edit the program to
 - Get the max number of network you can create
 - Get the max number of devices you can connect
 - All IP entered are stored into a *.txt file
+
+# How to use
+To use the program you need to:
+-  Place all files into the same folder 
+-  On Linux system execute the command ```make```
+-  You can now execute the program with ```./main```
+
+# Screenshots
+![Image of the program](https://i.imgur.com/Xp81L97.png)
